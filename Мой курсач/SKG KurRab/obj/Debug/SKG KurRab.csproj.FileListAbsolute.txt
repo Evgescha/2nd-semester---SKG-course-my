@@ -1,0 +1,27 @@
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\bin\Debug\SKG KurRab.exe.config
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\bin\Debug\SKG KurRab.exe
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\bin\Debug\SKG KurRab.pdb
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.csprojResolveAssemblyReference.cache
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\obj\Debug\SKG_KurRab.Form1.resources
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\obj\Debug\SKG_KurRab.Properties.Resources.resources
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.csproj.GenerateResource.Cache
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.exe
+c:\users\evgenii\documents\visual studio 2015\Projects\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.pdb
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\bin\Debug\SKG KurRab.exe.config
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\obj\Debug\SKG KurRab.exe
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\obj\Debug\SKG KurRab.pdb
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\bin\Debug\SKG KurRab.exe
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\bin\Debug\SKG KurRab.pdb
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\obj\Debug\SKG KurRab.csprojResolveAssemblyReference.cache
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\obj\Debug\SKG_KurRab.Form1.resources
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\obj\Debug\SKG_KurRab.Properties.Resources.resources
+C:\Users\Evgenii\Documents\Visual Studio 2015\Projects\SKG KurRab - копия\SKG KurRab\obj\Debug\SKG KurRab.csproj.GenerateResource.Cache
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\bin\Debug\SKG KurRab.exe.config
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.exe
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.pdb
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\bin\Debug\SKG KurRab.exe
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\bin\Debug\SKG KurRab.pdb
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.csprojResolveAssemblyReference.cache
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\obj\Debug\SKG_KurRab.Form1.resources
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\obj\Debug\SKG_KurRab.Properties.Resources.resources
+C:\Users\Evgenii\Desktop\SKG KurRab\SKG KurRab\obj\Debug\SKG KurRab.csproj.GenerateResource.Cache
